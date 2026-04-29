@@ -41,11 +41,13 @@ python scripts/separate_single.py path/to/your/song.mp3
 Результаты будут сохранены в папку `scripts/separated/`.
 
 2. Оценка качества модели
+
 Скрипт проводит оценку на датасете MUSDB18 и сохраняет график метрик (metrics.png):
 ```
 python scripts/evaluate.py
 ```
 3. Запуск веб-сервиса
+
 Запустите API для удаленной работы:
 ```
 python scripts/app.py
