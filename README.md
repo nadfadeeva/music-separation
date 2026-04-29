@@ -33,6 +33,7 @@ pip install -r requirements.txt
 
 ### Использование
 1. Разделение отдельного аудиофайла
+
 Для обработки файла запустите скрипт:
 ```
 python scripts/separate_single.py path/to/your/song.mp3
