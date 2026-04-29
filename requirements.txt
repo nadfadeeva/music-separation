@@ -1,0 +1,10 @@
+torch
+torchaudio
+demucs
+museval
+fastapi
+uvicorn
+python-multipart
+librosa
+pydub
+soundfile

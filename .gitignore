@@ -1,0 +1,7 @@
+.venv/
+musdb18/
+tools/
+scripts/temp_storage/
+__pycache__/
+*.pyc
+.DS_Store
